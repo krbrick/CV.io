@@ -1,7 +1,6 @@
 ---
 title: "Kara Brick's CV"
 author: Kara Brick
-date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     css: ['css/styles.css', 'resume']
@@ -69,16 +68,9 @@ Contact {#contact}
 - <i class="fa fa-phone"></i> (928) 890-8398     
 <br>
 <br>
-<<<<<<< Updated upstream
 <br>
-[Writing Sample: Remembering Relationships for Students](https://krbrick.github.io/writingsample.io/)
-=======
-
-
-[Writing Sample: Remembering Relationships for Students](https://krbrick.github.io/writingsample.io/)
-
-
->>>>>>> Stashed changes
+Writing Sample:    
+[Remembering Relationships for Students](https://krbrick.github.io/writingsample.io/)
 
 
 
