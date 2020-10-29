@@ -47,7 +47,7 @@ Aside
 ================================================================================
 
 
-![logo](beta_dist.png){width=100%}
+![logo](karalogo.png){width=100%}
 
 ```{r}
 # When in export mode the little dots are unaligned, so fix that. 
