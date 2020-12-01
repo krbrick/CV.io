@@ -47,7 +47,7 @@ Aside
 ================================================================================
 
 
-![logo](beta_dist.png){width=100%}
+![logo](karalogo.png){width=100%}
 
 ```{r}
 # When in export mode the little dots are unaligned, so fix that. 
@@ -159,13 +159,6 @@ print_section(position_data, 'data_science_writings')
 ```
 
 
-
-Selected Press (About)  {data-icon=newspaper}
---------------------------------------------------------------------------------
-
-```{r}
-print_section(position_data, 'about_me_press')
-```
 
 
 
